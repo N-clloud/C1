@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>REPLACE_ME</title>
+    <title>Who_iam_i</title>
   </head>
   <body>
     <div class="container">
       <div class="blurb">
-        <h1>Hi there, I'm REPLACE_ME!</h1>
+        <h1>Hi there, who_iam_i!</h1>
         <p>Who am I?</p>
       </div>
     </div>
     <footer>
       <ul>
-        <li><a href="mailto:REPLACE_ME@gmail.com">REPLACE_ME</a></li>
+        <li><a href="mailto:ianbhatt9@gmail.com">who</a></li>
         <li>
-          <a href="https://github.com/REPLACE_ME">github.com/REPLACE_ME</a>
+          <a href="https://github.com/WHO">github.com/who</a>
         </li>
       </ul>
     </footer>
